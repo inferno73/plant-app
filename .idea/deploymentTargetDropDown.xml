@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="Spirala2TestoviMoji">
+        <State />
+      </entry>
+      <entry key="TestS1">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\user\.android\avd\Pixel_3a_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-31T10:04:54.424416Z" />
+        </State>
+      </entry>
+      <entry key="provjeraValidacijeMix()">
+        <State />
+      </entry>
+      <entry key="testCameraMock()">
+        <State />
+      </entry>
+      <entry key="validacijaEditTekstoviOkListeNe()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
